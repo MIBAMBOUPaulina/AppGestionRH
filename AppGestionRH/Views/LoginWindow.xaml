@@ -1,0 +1,10 @@
+﻿<Window x:Class="AppGestionRH.Views.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:AppGestionRH.Views"
+        Title="Login" Height="350" Width="525">
+    <Grid>
+        <local:LoginUserControl />
+    </Grid>
+</Window>
+
